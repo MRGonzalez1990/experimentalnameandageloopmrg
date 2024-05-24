@@ -12,3 +12,6 @@ elif y== ('ruben'):
     print (y+' Good work!')
 else:
     print (y=input('What is your name?'))
+
+Copyright 2024 Mauro Ruben Gonzalez
+
